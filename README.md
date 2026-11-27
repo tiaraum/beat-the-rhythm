@@ -8,6 +8,8 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
 ![Project](https://img.shields.io/badge/Project-GAM100-purple)
 
+
+
 ## Project Overview
 
 Beat the Rhythm is a four-lane rhythm game developed by Team CookiesEndCream, a four-member student team at SIT–DigiPen.
@@ -15,6 +17,15 @@ Beat the Rhythm is a four-lane rhythm game developed by Team CookiesEndCream, a 
 Players hit falling notes in time with music, build scoring streaks and receive real-time visual feedback based on their performance.
 
 The project explores real-time gameplay programming, input handling, user interface development and collaborative software development.
+
+## Gameplay Demo
+
+
+
+https://github.com/user-attachments/assets/ebb06be8-5de1-4f43-b199-715a6c9a0373
+
+
+
 
 ## My Role
 
